@@ -292,7 +292,7 @@ footer .new5 i:hover
 }
 .new10
 {
-    background-image:url(../img/chrip.png);
+    background-image:url(./chrip.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     min-height:300px ;
